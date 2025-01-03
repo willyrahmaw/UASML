@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import pickle
-from sklearn.preprocessing import LabelEncoder, MinMaxScaler
 import tensorflow as tf
 import joblib
 
