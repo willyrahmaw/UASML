@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import pickle
-import tensorflow as tf
 import joblib
 
 # Load model, encoder, and scaler untuk buah
